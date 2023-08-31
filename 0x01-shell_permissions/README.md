@@ -52,7 +52,7 @@ Wrote a script that adds execution permission to the owner, the group owner and 
 
 Created a file 8-James_Bond
 
-Wrote a script that gives all  permissions to other users only to the file hello using the command "chmod o+rwx"
+Wrote a script that gives all  permissions to other users only to the file hello using the command "chmod 007"
 
 
 
