@@ -60,6 +60,12 @@ Created a file 9-John_Doe
 
 Wrote a script using the command "chmod 753 hello"
 
+# 10. Look in the mirror
+
+Created a file 10-mirror_permissions
+
+Wrote a script that  sets the mode of the file hello the same as olleh’s mode using the command "chmod --reference"
+
 
 
 
