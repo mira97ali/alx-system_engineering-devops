@@ -23,3 +23,7 @@ Wrote a script that prints all the groups the current user is part of using the 
 created a file 3-new_owner
 
 Wrote a script that changes the owner of the file hello to the user betty using the command "chown"
+
+# 4. Empty!
+
+Wrote a script that creates an empty file called hello using the command "touch"
