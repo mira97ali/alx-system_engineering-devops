@@ -54,6 +54,11 @@ Created a file 8-James_Bond
 
 Wrote a script that gives all  permissions to other users only to the file hello using the command "chmod 007"
 
+# 9. John Doe
+
+Created a file 9-John_Doe
+
+Wrote a script using the command "chmod 753 hello"
 
 
 
