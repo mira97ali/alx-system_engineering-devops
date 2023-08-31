@@ -48,6 +48,12 @@ Created a file 7-everybody
 
 Wrote a script that adds execution permission to the owner, the group owner and the other users, to the file hello using the command "chmod a+x"
 
+# 8. James Bond
+
+Created a file 8-James_Bond
+
+Wrote a script that gives all  permissions to other users only to the file hello using the command "chmod o+rwx"
+
 
 
 
