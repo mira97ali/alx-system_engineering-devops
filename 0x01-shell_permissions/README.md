@@ -70,7 +70,7 @@ Wrote a script that  sets the mode of the file hello the same as olleh’s mode 
 
 Created a file 11-directories_permissions
 
-Wrote  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users using "sudo find . -type d -exec chmod ugo=+x {} \;"
+Wrote  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users using "chmod -R a+X"
 
 
 
