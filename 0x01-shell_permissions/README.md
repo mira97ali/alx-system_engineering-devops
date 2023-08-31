@@ -34,4 +34,4 @@ Wrote a script that creates an empty file called hello using the command "touch"
 
 Created a file 5-execute
 
-Wrote  a script that adds execute permission to the owner of the file hello using the command "chmod +x"
+Wrote  a script that adds execute permission to the owner of the file hello using the command "chmod u+x"
