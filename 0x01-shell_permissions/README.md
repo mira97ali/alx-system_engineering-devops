@@ -78,6 +78,12 @@ Created a file 12-directory_permissions
 
 Wrote a script that creates a directory called my_dir with permissions 751 in the working directory using "mkdir -m 751 my_dir"
 
+# 13. Change group
+
+Created a file 13-change_group
+
+Wrote a script that changes the group owner to school for the file hello using "sudo chown"
+
 
 
 
