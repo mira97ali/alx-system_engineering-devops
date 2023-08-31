@@ -35,3 +35,35 @@ Wrote a script that creates an empty file called hello using the command "touch"
 Created a file 5-execute
 
 Wrote  a script that adds execute permission to the owner of the file hello using the command "chmod u+x"
+
+# 6. Multiple permissions
+
+Created a file 6-multiple_permissions
+
+Wrote a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello using the command "chmod ug+x,o+r"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
