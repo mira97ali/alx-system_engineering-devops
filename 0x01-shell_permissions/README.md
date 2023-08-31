@@ -94,7 +94,7 @@ Wrote a script that changes the owner to vincent and the group owner to staff fo
 
 Created a file 101-symbolic_link_permissions
 
-Wrote a script that changes the owner and the group owner of _hello to vincent and staff using "sudo chown"
+Wrote a script that changes the owner and the group owner of _hello to vincent and staff using "chown -h vincent:staff _hello"
 
 
 
