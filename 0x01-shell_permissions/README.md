@@ -17,3 +17,9 @@ wrote a script that prints the effective username of the current user using the 
 created a file 2-groups
 
 Wrote a script that prints all the groups the current user is part of using the command "groups"
+
+# 3. New owner
+
+created a file 3-new_owner
+
+Wrote a script that changes the owner of the file hello to the user betty using the command "chown"
