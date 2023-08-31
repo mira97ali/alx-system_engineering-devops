@@ -66,6 +66,15 @@ Created a file 10-mirror_permissions
 
 Wrote a script that  sets the mode of the file hello the same as olleh’s mode using the command "chmod --reference"
 
+# 11. Directories
+
+Created a file 11-directories_permissions
+
+Wrote  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users using "sudo find . -type d -exec chmod ugo=+x {} \;"
+
+
+
+
 
 
 
