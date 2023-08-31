@@ -26,4 +26,12 @@ Wrote a script that changes the owner of the file hello to the user betty using 
 
 # 4. Empty!
 
+Created a file 4-empty
+
 Wrote a script that creates an empty file called hello using the command "touch"
+
+# 5. Execute
+
+Created a file 5-execute
+
+Wrote  a script that adds execute permission to the owner of the file hello using the command "chmod +x"
