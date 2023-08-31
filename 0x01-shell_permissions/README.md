@@ -42,6 +42,12 @@ Created a file 6-multiple_permissions
 
 Wrote a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello using the command "chmod ug+x,o+r"
 
+# 7. Everybody!
+
+Created a file 7-everybody
+
+Wrote a script that adds execution permission to the owner, the group owner and the other users, to the file hello using the command "chmod a+x"
+
 
 
 
