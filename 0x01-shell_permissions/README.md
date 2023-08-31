@@ -90,6 +90,12 @@ Created a file 100-change_owner_and_group
 
 Wrote a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory using "sudo chown -R"
 
+# 15. Symbolic links
+
+Created a file 101-symbolic_link_permissions
+
+Wrote a script that changes the owner and the group owner of _hello to vincent and staff using "sudo chown"
+
 
 
 
