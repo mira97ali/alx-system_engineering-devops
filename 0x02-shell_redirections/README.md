@@ -135,13 +135,15 @@ Wrote a script that reverse its input.
 Wrote a script that displays all users and their home directories, sorted by users using "cat", "sort", "cut", and "uniq"
 
 
+23. Empty casks make the most noise
 
 
+Wrote a command that finds all empty files and directories in the current directory and all sub-directories, using the allowed commands only
 
 
+24. A gif is worth ten thousand words
 
-
-
+Wrote a script that lists all the files with a .gif extension in the current directory and all its sub-directories using the allowed commands only.
 
 
 
