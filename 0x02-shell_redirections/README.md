@@ -90,7 +90,9 @@ Wrote script that takes a list of words as input and prints only words that appe
 Wrote a script to display lines containing the pattern “root” from the file `/etc/passwd` using "grep"
 
 
+15. Count that word
 
+Wrote a script to display the number of lines that contain the pattern “bin” in the file `/etc/passwd` using "grep"
 
 
 
