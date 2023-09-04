@@ -28,6 +28,6 @@ Wrote a script to Display the content of /etc/passwd and /etc/hosts using the co
 
 Created the file 4-lastlines
 
-Wrote a script to Display the last 10 lines of /etc/passwd using the command "head -n 10"
+Wrote a script to Display the last 10 lines of /etc/passwd using the command "tail -n 10"
 
 
