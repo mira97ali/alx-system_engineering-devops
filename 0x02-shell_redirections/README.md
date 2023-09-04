@@ -79,7 +79,9 @@ Wrote a script that counts the number of directories and sub-directories in the 
 Wrote a script that displays the 10 newest files in the current directory using "ls" with -t to order from most recent, --format to show only names, and head to limit results to 10
 
 
+13. Being unique is better than being perfect
 
+Wrote script that takes a list of words as input and prints only words that appear exactly once using "echo", "cat", "tr", "sort", and "uniq"
 
 
 
