@@ -36,4 +36,25 @@ Created the file 5-firstlines
 
 Wrote a script to Display the first 10 lines of /etc/passwd using the command "head -n 10"
 
+6. Line #2
+
+Created the file 6-third_line
+
+Wrote a script that displays the third line of the file iacta using two commands "head" and "tail"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
