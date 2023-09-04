@@ -61,6 +61,14 @@ Created the file 9-duplicate_last_line
 
 Wrote a script that duplicates the last line of the file iacta using "tail -n 1"
 
+10. No more javascript
+
+Created the file 10-no_more_js
+
+Wrote a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders using "find" and "-deldete"
+
+
+
 
 
 
