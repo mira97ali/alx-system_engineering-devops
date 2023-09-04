@@ -55,6 +55,11 @@ Created the file 8-cwd_state
 
 Wrote a script that that writes into the file ls_cwd_content the result of the command ls -la
 
+9. Duplicate last line
+
+Created the file 9-duplicate_last_line
+
+Wrote a script that duplicates the last line of the file iacta using "tail -n 1"
 
 
 
