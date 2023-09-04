@@ -130,6 +130,11 @@ Wrote a script that removes all letters "c" and "C" from input using "tr"
 Wrote a script that reverse its input.
 
 
+22. DJ Cut Killer
+
+Wrote a script that displays all users and their home directories, sorted by users using "cat", "sort", "cut", and "uniq"
+
+
 
 
 
