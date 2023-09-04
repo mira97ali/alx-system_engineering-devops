@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t --format=single-column
+ls -t --format=single-column | head -n 10

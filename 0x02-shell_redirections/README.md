@@ -68,13 +68,15 @@ Created the file 10-no_more_js
 Wrote a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders using "find" and "-deldete"
 
 
-11. 11. Don't just count your directories, make your directories count
+11. Don't just count your directories, make your directories count
 
 
 Wrote a script that counts the number of directories and sub-directories in the current directory useing "find" and its flag to apply the conditions, and "wc" to count
 
 
+12. What’s new
 
+Wrote a script that displays the 10 newest files in the current directory using "ls" with -t to order from most recent, --format to show only names, and head to limit results to 10
 
 
 
