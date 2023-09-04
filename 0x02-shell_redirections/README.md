@@ -30,4 +30,10 @@ Created the file 4-lastlines
 
 Wrote a script to Display the last 10 lines of /etc/passwd using the command "tail -n 10"
 
+5. I'd prefer the first ones actually
+
+Created the file 5-firstlines
+
+Wrote a script to Display the first 10 lines of /etc/passwd using the command "head -n 10"
+
 
