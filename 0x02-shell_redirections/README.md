@@ -113,8 +113,9 @@ Wrote a script to display all the lines in the file `/etc/passwd` that do not co
 Wrote a script to display all lines of the file `/etc/ssh/sshd_config` starting with a letter using "grep"
 
 
+19. A to Z
 
-
+Wrote a script to replace all characters A and c from input to Z and e respectively using "tr"
 
 
 
