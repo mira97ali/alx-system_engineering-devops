@@ -18,4 +18,10 @@ Created the file 2-hellofile
 
 Wrote a script tp Display the content of the /etc/passwd file using the command "cat"
 
+3. What about 2?
+
+Created the file 3-twofiles
+
+Wrote a script to Display the content of /etc/passwd and /etc/hosts using the command "cat"
+
 
