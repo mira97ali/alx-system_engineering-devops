@@ -118,7 +118,10 @@ Wrote a script to display all lines of the file `/etc/ssh/sshd_config` starting 
 Wrote a script to replace all characters A and c from input to Z and e respectively using "tr" twice
 
 
+20. Without C, you would live in hiago
 
+
+Wrote a script that removes all letters "c" and "C" from input using "tr"
 
 
 
