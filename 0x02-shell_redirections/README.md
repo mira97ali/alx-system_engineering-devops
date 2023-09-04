@@ -24,4 +24,10 @@ Created the file 3-twofiles
 
 Wrote a script to Display the content of /etc/passwd and /etc/hosts using the command "cat"
 
+4. Last lines of a file
+
+Created the file 4-lastlines
+
+Wrote a script to Display the last 10 lines of /etc/passwd using the command "head -n 10"
+
 
