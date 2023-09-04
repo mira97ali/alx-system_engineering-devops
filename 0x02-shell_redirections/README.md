@@ -115,7 +115,7 @@ Wrote a script to display all lines of the file `/etc/ssh/sshd_config` starting 
 
 19. A to Z
 
-Wrote a script to replace all characters A and c from input to Z and e respectively using "sed"
+Wrote a script to replace all characters A and c from input to Z and e respectively using "tr" twice
 
 
 
