@@ -105,3 +105,33 @@ Wrote a script to display lines containing the pattern “root” and 3 lines af
 
 
 Wrote a script to display all the lines in the file `/etc/passwd` that do not contain the pattern “bin” using "grep"
+
+
+
+18. Letters only please
+
+Wrote a script to display all lines of the file `/etc/ssh/sshd_config` starting with a letter using "grep"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
