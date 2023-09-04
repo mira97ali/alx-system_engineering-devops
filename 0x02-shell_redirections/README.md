@@ -124,8 +124,10 @@ Wrote a script to replace all characters A and c from input to Z and e respectiv
 Wrote a script that removes all letters "c" and "C" from input using "tr"
 
 
+21. esreveR
 
 
+Wrote a script that reverse its input.
 
 
 
