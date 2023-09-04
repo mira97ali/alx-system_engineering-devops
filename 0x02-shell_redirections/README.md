@@ -42,6 +42,12 @@ Created the file 6-third_line
 
 Wrote a script that displays the third line of the file iacta using two commands "head" and "tail"
 
+7. It is a good file that cuts iron without making a noise
+
+Created the file 7-file
+
+Wrote a script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line using the command "echo -e" and using the redirection.
+
 
 
 
