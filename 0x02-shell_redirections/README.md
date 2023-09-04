@@ -12,4 +12,10 @@ Created the file 1-confused_smiley
 
 Wrote a script that displays a confused smiley "(Ôo)' using the command "echo" and Escape \
 
+2. Let's display a file
+
+Created the file 2-hellofile
+
+Wrote a script tp Display the content of the /etc/passwd file using the command "cat"
+
 
