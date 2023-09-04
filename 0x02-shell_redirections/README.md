@@ -81,7 +81,7 @@ Wrote a script that displays the 10 newest files in the current directory using 
 
 13. Being unique is better than being perfect
 
-Wrote script that takes a list of words as input and prints only words that appear exactly once using "echo", "cat", "tr", "sort", and "uniq"
+Wrote script that takes a list of words as input and prints only words that appear exactly once using "cat", "sort", and "uniq" with the flag -u to output lines that are not repeated in the input
 
 
 

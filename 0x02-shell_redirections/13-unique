@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cat | tr '\n' ' ')" | tr ' ' '\n' | sort | uniq
+cat list | sort | uniq -u
