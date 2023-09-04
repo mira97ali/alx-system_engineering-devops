@@ -46,10 +46,14 @@ Wrote a script that displays the third line of the file iacta using two commands
 
 Created the file 7-file
 
-Wrote a script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line using the command "echo -e" and using the redirection.
+Wrote a script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line using the command "echo"
 
 
+8. Save current state of directory
 
+Created the file 8-cwd_state
+
+Wrote a script that that writes into the file ls_cwd_content the result of the command ls -la
 
 
 
