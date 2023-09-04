@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRaA | wc -l
+find . -mindepth 1 -type d \( -name '.*' -o ! -name '.*' \) | wc -l
