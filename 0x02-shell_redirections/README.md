@@ -101,4 +101,7 @@ Wrote a script to display the number of lines that contain the pattern “bin”
 Wrote a script to display lines containing the pattern “root” and 3 lines after them in the file `/etc/passwd` using "grep"
 
 
+17. I hate bins
 
+
+Wrote a script to display all the lines in the file `/etc/passwd` that do not contain the pattern “bin” using "grep"
