@@ -23,4 +23,10 @@ Wrote a script that adds /action to the PATH using the command "export"
 
 Created the file 3-paths
 
-Wrote a script that counts the number of directories in the PATH using the command "echo" 
+Wrote a script that counts the number of directories in the PATH using the command "echo"
+
+4. Global variables
+
+Created the file 4-global_variables
+
+Wrote  a script that lists environment variables using the command "printenv" 
