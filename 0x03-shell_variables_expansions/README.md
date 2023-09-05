@@ -29,4 +29,36 @@ Wrote a script that counts the number of directories in the PATH using the comma
 
 Created the file 4-global_variables
 
-Wrote  a script that lists environment variables using the command "printenv" 
+Wrote  a script that lists environment variables using the command "printenv"
+
+5. Local variables
+
+Created the file 5-local_variables
+
+Wrote a script that lists all local variables and environment variables, and functions using the command "set"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
