@@ -91,6 +91,13 @@ Created the file 100-decimal_to_hexadecimal
 
 Wrote a script that converts a number from base 10 to base 16 using printf
 
+15. Everyone is a proponent of strong encryption
+
+Created the file 101-rot13
+
+Wrote a script that encodes and decodes text using the rot13 encryption. Assume ASCII using "tr"
+
+
 
 
 
