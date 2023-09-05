@@ -49,6 +49,12 @@ Created the file 7-create_global_variable
 
 Wrote a script that creates a new global variable named BEST with the value School by using the comman "export"
 
+8. Every addition to true knowledge is an addition to human power
+
+Created the file 8-true_knowledge
+
+Wrote a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE using the command "echo"
+
 
 
 
