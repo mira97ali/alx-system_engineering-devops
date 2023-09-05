@@ -73,6 +73,12 @@ Created the file 11-binary_to_decimal
 
 Wrote a script that converts a number from base 2 to base 10 by using "echo $((2#${}))"
 
+12. Combination
+
+Created the file 12-combinations
+
+Wrote  a script that prints all possible combinations of two letters, except oo using "echo, tr, and grep"
+
 
 
 
