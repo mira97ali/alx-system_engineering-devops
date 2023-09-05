@@ -37,9 +37,11 @@ Created the file 5-local_variables
 
 Wrote a script that lists all local variables and environment variables, and functions using the command "set"
 
+6. Local variable
 
+Created the file 6-create_local_variable
 
-
+Wrote a script that creates a new local variable with the name BEST ans value School
 
 
 
