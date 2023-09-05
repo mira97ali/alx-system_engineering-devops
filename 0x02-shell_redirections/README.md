@@ -148,7 +148,7 @@ THE SCRIPT IS WORKING FINE AND TESTED BUT THE ANSWER NOT ACCEPTED, WHY ?
 
 25. A gif is worth ten thousand words
 
-SKIPPED
+Wrote a command that finds all empty files and directories in the current directory and all sub-directories, using the allowed commands only
 
 
 26. The biggest fan
