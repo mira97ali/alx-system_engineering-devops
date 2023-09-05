@@ -97,6 +97,12 @@ Created the file 101-rot13
 
 Wrote a script that encodes and decodes text using the rot13 encryption. Assume ASCII using "tr"
 
+16. The eggs of the brood need to be an odd number
+
+Created the file 102-odd
+
+Wrote  a script that prints every other line from the input, starting with the first line using "paste" and "cut"
+
 
 
 
