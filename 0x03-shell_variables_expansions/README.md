@@ -43,6 +43,28 @@ Created the file 6-create_local_variable
 
 Wrote a script that creates a new local variable with the name BEST ans value School
 
+7. Global variable
+
+Created the file 7-create_global_variable
+
+Wrote a script that creates a new global variable named BEST with the value School by using the comman "export"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
