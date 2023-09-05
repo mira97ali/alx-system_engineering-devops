@@ -79,6 +79,12 @@ Created the file 12-combinations
 
 Wrote  a script that prints all possible combinations of two letters, except oo using "echo, tr, and grep"
 
+13. Floats
+
+Created the file 13-print_float
+
+Wrote a script that prints a number with two decimal places, followed by a new line using printf
+
 
 
 
