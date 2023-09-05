@@ -143,8 +143,15 @@ Wrote a command that finds all empty files and directories in the current direct
 
 24. A gif is worth ten thousand words
 
-Wrote a script that lists all the files with a .gif extension in the current directory and all its sub-directories using the allowed commands only.
+THE SCRIPT IS WORKING FINE AND TESTED BUT THE ANSWER NOT ACCEPTED, WHY ?
 
 
+25. A gif is worth ten thousand words
 
+SKIPPED
+
+
+26. The biggest fan
+
+THE SCRIPT IS WORKING FINE AND TESTED BUT THE ANSWER NOT ACCEPTED, WHY ?
 
