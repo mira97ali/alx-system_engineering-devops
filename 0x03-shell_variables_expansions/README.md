@@ -61,6 +61,12 @@ Created the file 9-divide_and_rule
 
 Wrote a script that prints the result of POWER divided by DIVIDE, followed by a new line using the command "echo"
 
+10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+
+Created the file 10-love_exponent_breath
+
+Wrote a script that displays the result of BREATH to the power LOVE using "echo"
+
 
 
 
