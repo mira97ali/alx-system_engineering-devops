@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # This script displays numbers from 1 to 100, with special outputs for multiples of 3, 5, and both.
-
 for i in {1..100}
 do
     output=""
