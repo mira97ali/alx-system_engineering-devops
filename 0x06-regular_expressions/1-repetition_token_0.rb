@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 
-puts ARGV[0].scan(/Scho{0,2}l/).join
+puts ARGV[0].scan(/hbtt{1,5}n/).join
