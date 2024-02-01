@@ -2,4 +2,4 @@
 # This script displays all active IPv4 IPs on the machine
 
 # List all IPs and filter to get IPv4 addresses
-ip -4 addr show | grep -Eo 'inet ([0-9]*\.){3}[0-9]*' | awk '{print $2}'
+ifconfig | grep -Eo 'inet ([0-9]*\.){3}[0-9]*' | awk '{print $2}'
