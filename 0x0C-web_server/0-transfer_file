@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # Moves a file from Holberton's client system to a different server.
 # Requires four parameters:
-#     Path of the file to transfer.
-#     IP address of the destination server.
-#     Username for scp connection.
-#     Location of the SSH private key for scp.
+#+     Path of the file to transfer.
+#+     IP address of the destination server.
+#+     Username for scp connection.
+#+     Location of the SSH private key for scp.
 
 if [ $# -lt 4 ]
 then
