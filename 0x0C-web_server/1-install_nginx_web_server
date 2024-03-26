@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 # Sets up nginx and arranges its configuration on a distant server
 
-apt-get update -y
-apt-get install nginx -y
-ufw allow 'Nginx HTTP'
+sudo apt-get update -y
+sudo apt-get install nginx -y
+sudo ufw allow 'Nginx HTTP'
 echo 'Hello World!' > /var/www/html/index.html
-nginx -t
-service nginx restart
+sudo service nginx restart
