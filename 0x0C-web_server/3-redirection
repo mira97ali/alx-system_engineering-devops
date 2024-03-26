@@ -7,3 +7,4 @@ sudo chmod -R 755 /var/www
 echo 'Hello World!' > /var/www/html/index.nginx-debian.html
 sudo sed -i '/server_name _;/a \ \ \ \ \ \ \ \ location /redirect_me {\n\ \ \ \ \ \ \ \ \ \ \ \ rewrite ^ https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;\n\ \ \ \ \ \ \ \ }' /etc/nginx/sites-available/default
 service nginx restart
+curl -o /dev/null -s -w "%{http_code}\n" http://miralx.tech/redirect_me
