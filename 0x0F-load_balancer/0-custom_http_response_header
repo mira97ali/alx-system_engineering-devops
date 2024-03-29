@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Double the number of webservers
+
+apt-get -y update
+apt-get -y install nginx
+echo 'Hello World!' > /var/www/html/index.nginx-debian.html
+sed -i '/server_name _;/a \\n        location /redirect_me {\n            rewrite ^ https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;\n        }' /etc/nginx/sites-available/default
+sed -i '/server_name _;/a \\n        add_header X-Served-By $hostname;' /etc/nginx/sites-available/default
+service nginx restart
