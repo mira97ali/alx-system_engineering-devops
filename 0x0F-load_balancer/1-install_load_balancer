@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# Install and Configure a Load Balancer
+
+apt-get update
+apt-get install -y haproxy
+
+cat > /etc/haproxy/haproxy.cfg <<EOF
+global
+    daemon
+
+defaults
+    mode    http
+    timeout connect 5000ms
+    timeout client  50000ms
+    timeout server  50000ms
+
+frontend http_front
+    bind *:80
+    default_backend http_back
+
+backend http_back
+    balance roundrobin
+    server 525807-web-01 100.26.254.240:80 check
+    server 525807-web-02 52.23.222.226:80 check
+EOF
+
+service restart haproxy
