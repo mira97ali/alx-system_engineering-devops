@@ -1,0 +1,22 @@
+global
+    daemon
+
+defaults
+    mode    http
+    timeout connect 5000ms
+    timeout client  50000ms
+    timeout server  50000ms
+
+frontend http_front
+    bind *:80
+    bind *:443 ssl crt /etc/ssl/www.miralx.tech/www.miralx.tech.pem
+    acl host_www_miralx_tech hdr(host) -i www.miralx.tech
+    acl host_lb_01_miralx_tech hdr(host) -i lb-01.miralx.tech
+    acl is_http ssl_fc,not
+    http-request redirect scheme https code 301 if is_http
+    default_backend http_back
+
+backend http_back
+    balance roundrobin
+    server 525807-web-01 100.26.254.240:80 check
+    server 525807-web-02 52.23.222.226:80 check
