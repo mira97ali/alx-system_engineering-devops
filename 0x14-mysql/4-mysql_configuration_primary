@@ -1,0 +1,19 @@
+#
+# The MySQL Server configuration file.
+#
+
+[mysqld]
+pid-file        = /var/run/mysqld/mysqld.pid
+socket          = /var/run/mysqld/mysqld.sock
+datadir         = /var/lib/mysql
+log-error       = /var/log/mysql/error.log
+# Accept connections from any IP address
+bind-address    = 0.0.0.0
+# Symbolic links are disabled for security reasons
+symbolic-links=0
+# Identifier for this server in a replication setup
+server-id       = 1
+# Path to MySQL binary log file
+log_bin         = /var/log/mysql/mysql-bin.log
+# Database to include in binary logging
+binlog_do_db    = tyrell_corp
