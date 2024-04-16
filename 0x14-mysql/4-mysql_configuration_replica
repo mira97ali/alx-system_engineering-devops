@@ -1,0 +1,21 @@
+#
+# Server configuration file.
+#
+
+[mysqld]
+pid-file        = /var/run/mysqld/mysqld.pid
+socket          = /var/run/mysqld/mysqld.sock
+datadir         = /var/lib/mysql
+log-error       = /var/log/mysql/error.log
+# Localhost only connections
+bind-address    = 127.0.0.1
+# Security enhancement by disabling symbolic links
+symbolic-links=0
+# Unique ID for replication configuration
+server-id       = 2
+# Location of binary log file for replication
+log_bin         = /var/log/mysql/mysql-bin.log
+# Specific database to replicate
+binlog_do_db    = tyrell_corp
+# Relay log path for replication data
+relay-log       = /var/log/mysql/mysql-relay-bin.log
