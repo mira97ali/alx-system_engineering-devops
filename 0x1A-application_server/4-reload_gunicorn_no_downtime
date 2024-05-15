@@ -2,4 +2,4 @@
 # Script to reload Gunicorn in a graceful way.
 MASTER_PID=$(pgrep -f "gunicorn" | grep -v "worker" | head -n 1)
 kill -HUP "$MASTER_PID"
-echo "OK"
+printf "OK"
