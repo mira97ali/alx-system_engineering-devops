@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # Script to reload Gunicorn in a graceful way.
-pkill -HUP gunicorn
+MASTER_PID=$(ps -eo pid,ppid,cmd | grep "gunicorn" | grep -v "grep" | grep -v "worker" | awk '{print $1}')
+kill -HUP "$MASTER_PID"
